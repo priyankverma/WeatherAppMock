@@ -1,0 +1,6 @@
+module Pods_collegeDuniaMock_collegeDuniaMockTests {
+  umbrella header "Pods-collegeDuniaMock-collegeDuniaMockTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
